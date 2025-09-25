@@ -1,0 +1,7618 @@
+fileFormatVersion: 2
+guid: 6b54883b09b38b359b78a0f76bd00bed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4984638791288971881
+    second: space_merc_default_0
+  - first:
+      213: 1785446759855277383
+    second: space_merc_default_1
+  - first:
+      213: 6281024367710667670
+    second: space_merc_default_2
+  - first:
+      213: 6164410080060892007
+    second: space_merc_default_3
+  - first:
+      213: 3335026009529443783
+    second: space_merc_default_4
+  - first:
+      213: -4120735654495470045
+    second: space_merc_default_5
+  - first:
+      213: 5223479615780955254
+    second: space_merc_default_6
+  - first:
+      213: 3804097958203426474
+    second: space_merc_default_7
+  - first:
+      213: -8205461593163729615
+    second: space_merc_default_8
+  - first:
+      213: 4374727591630589558
+    second: space_merc_default_9
+  - first:
+      213: -8184755458567136183
+    second: space_merc_default_10
+  - first:
+      213: 6499035517952404952
+    second: space_merc_default_11
+  - first:
+      213: 292465755518533056
+    second: space_merc_default_12
+  - first:
+      213: 2767412981357956021
+    second: space_merc_default_13
+  - first:
+      213: 2912440560393517701
+    second: space_merc_default_14
+  - first:
+      213: 5268583060438753558
+    second: space_merc_default_15
+  - first:
+      213: -1466304311261479084
+    second: space_merc_default_16
+  - first:
+      213: -2871891688253220666
+    second: space_merc_default_17
+  - first:
+      213: -2030130257780728683
+    second: space_merc_default_18
+  - first:
+      213: -4781193456990513458
+    second: space_merc_default_19
+  - first:
+      213: -7257197302066523204
+    second: space_merc_default_20
+  - first:
+      213: 2670136073428586072
+    second: space_merc_default_21
+  - first:
+      213: -2148512262820208948
+    second: space_merc_default_22
+  - first:
+      213: 5897369959283775582
+    second: space_merc_default_23
+  - first:
+      213: -6673561364878907342
+    second: space_merc_default_24
+  - first:
+      213: -7894304590022123031
+    second: space_merc_default_25
+  - first:
+      213: 7171085227518706443
+    second: space_merc_default_26
+  - first:
+      213: -6939052985031931450
+    second: space_merc_default_27
+  - first:
+      213: 6796294653854002084
+    second: space_merc_default_28
+  - first:
+      213: 4951489199939243008
+    second: space_merc_default_29
+  - first:
+      213: -2657491702336085188
+    second: space_merc_default_30
+  - first:
+      213: 3152196751301250191
+    second: space_merc_default_31
+  - first:
+      213: -7238134794344619446
+    second: space_merc_default_32
+  - first:
+      213: 8948223088831004773
+    second: space_merc_default_33
+  - first:
+      213: -7866587496650674878
+    second: space_merc_default_34
+  - first:
+      213: 2651814858213125089
+    second: space_merc_default_35
+  - first:
+      213: 1997829303830982972
+    second: space_merc_default_36
+  - first:
+      213: 1693165880398607491
+    second: space_merc_default_37
+  - first:
+      213: 8397103521911910797
+    second: space_merc_default_38
+  - first:
+      213: 2640290367262648419
+    second: space_merc_default_39
+  - first:
+      213: -4476168360632774769
+    second: space_merc_default_40
+  - first:
+      213: -3979967431809866630
+    second: space_merc_default_41
+  - first:
+      213: 8981109047507039943
+    second: space_merc_default_42
+  - first:
+      213: 6797174352344723529
+    second: space_merc_default_43
+  - first:
+      213: -802035365631065151
+    second: space_merc_default_44
+  - first:
+      213: 3306474893629234779
+    second: space_merc_default_45
+  - first:
+      213: 5516212831042382486
+    second: space_merc_default_46
+  - first:
+      213: -4513346640915478182
+    second: space_merc_default_47
+  - first:
+      213: -2750202708569254643
+    second: space_merc_default_48
+  - first:
+      213: 7503756872673369116
+    second: space_merc_default_49
+  - first:
+      213: 2530190699990847382
+    second: space_merc_default_50
+  - first:
+      213: -7967799445917044671
+    second: space_merc_default_51
+  - first:
+      213: 3256986795517774991
+    second: space_merc_default_52
+  - first:
+      213: -7610313030367071340
+    second: space_merc_default_53
+  - first:
+      213: -2108312135158058836
+    second: space_merc_default_54
+  - first:
+      213: 2731450902586730093
+    second: space_merc_default_55
+  - first:
+      213: 4090042097949339570
+    second: space_merc_default_56
+  - first:
+      213: 8584912932713345057
+    second: space_merc_default_57
+  - first:
+      213: 7585392512417951028
+    second: space_merc_default_58
+  - first:
+      213: 122543549812236153
+    second: space_merc_default_59
+  - first:
+      213: -460299147923898325
+    second: space_merc_default_60
+  - first:
+      213: -4813201192181988886
+    second: space_merc_default_61
+  - first:
+      213: 8422962772885916290
+    second: space_merc_default_62
+  - first:
+      213: 3612760376001364715
+    second: space_merc_default_63
+  - first:
+      213: 9185290312770785669
+    second: space_merc_default_64
+  - first:
+      213: 9133222824151026653
+    second: space_merc_default_65
+  - first:
+      213: -8654542447249655249
+    second: space_merc_default_66
+  - first:
+      213: -4802309063925564956
+    second: space_merc_default_67
+  - first:
+      213: -6920608132471079173
+    second: space_merc_default_68
+  - first:
+      213: -2185861362789369059
+    second: space_merc_default_69
+  - first:
+      213: 1135918316837459739
+    second: space_merc_default_70
+  - first:
+      213: -6580343461338974324
+    second: space_merc_default_71
+  - first:
+      213: 7392547449330043202
+    second: space_merc_default_72
+  - first:
+      213: -5185170658570285747
+    second: space_merc_default_73
+  - first:
+      213: -3507241236795127173
+    second: space_merc_default_74
+  - first:
+      213: -2133016895278880322
+    second: space_merc_default_75
+  - first:
+      213: 5750695738372767132
+    second: space_merc_default_76
+  - first:
+      213: 5088984083506615371
+    second: space_merc_default_77
+  - first:
+      213: 4216356211703745378
+    second: space_merc_default_78
+  - first:
+      213: 5562231066841705544
+    second: space_merc_default_79
+  - first:
+      213: 5264096223682109220
+    second: space_merc_default_80
+  - first:
+      213: -7234487941394098532
+    second: space_merc_default_81
+  - first:
+      213: 5787661076613492283
+    second: space_merc_default_82
+  - first:
+      213: -1444750179704248563
+    second: space_merc_default_83
+  - first:
+      213: -3441726443998273836
+    second: space_merc_default_84
+  - first:
+      213: 5763129620146687053
+    second: space_merc_default_85
+  - first:
+      213: -7630019762857190699
+    second: space_merc_default_86
+  - first:
+      213: 5723950169292661367
+    second: space_merc_default_87
+  - first:
+      213: 8703305758927446815
+    second: space_merc_default_88
+  - first:
+      213: -5916550017460243146
+    second: space_merc_default_89
+  - first:
+      213: 5998479666850764495
+    second: space_merc_default_90
+  - first:
+      213: 1450293333137587688
+    second: space_merc_default_91
+  - first:
+      213: -6048306029527190464
+    second: space_merc_default_92
+  - first:
+      213: 2211879325440802255
+    second: space_merc_default_93
+  - first:
+      213: -2239530645852058130
+    second: space_merc_default_94
+  - first:
+      213: -6480930774866699256
+    second: space_merc_default_95
+  - first:
+      213: 7714919105819519066
+    second: space_merc_default_96
+  - first:
+      213: 1335968561496722625
+    second: space_merc_default_97
+  - first:
+      213: 4286926929235465180
+    second: space_merc_default_98
+  - first:
+      213: 8735782806568765571
+    second: space_merc_default_99
+  - first:
+      213: 6551050137792783726
+    second: space_merc_default_100
+  - first:
+      213: -7059178030604981522
+    second: space_merc_default_101
+  - first:
+      213: 2777010199838619515
+    second: space_merc_default_102
+  - first:
+      213: -3674632657919025003
+    second: space_merc_default_103
+  - first:
+      213: 3946454005896368573
+    second: space_merc_default_104
+  - first:
+      213: 5986096945336546338
+    second: space_merc_default_105
+  - first:
+      213: -7454659661057164638
+    second: space_merc_default_106
+  - first:
+      213: -4815394080254663320
+    second: space_merc_default_107
+  - first:
+      213: 8605210661546097219
+    second: space_merc_default_108
+  - first:
+      213: -5643033627086652946
+    second: space_merc_default_109
+  - first:
+      213: 7967176263173113959
+    second: space_merc_default_110
+  - first:
+      213: 1084404423644436158
+    second: space_merc_default_111
+  - first:
+      213: 7588632261960086647
+    second: space_merc_default_112
+  - first:
+      213: -4788513952044283437
+    second: space_merc_default_113
+  - first:
+      213: -65344372853761437
+    second: space_merc_default_114
+  - first:
+      213: -6787918877574769597
+    second: space_merc_default_115
+  - first:
+      213: 2944887409916536855
+    second: space_merc_default_116
+  - first:
+      213: -5294332439384451495
+    second: space_merc_default_117
+  - first:
+      213: 8701970642255677406
+    second: space_merc_default_118
+  - first:
+      213: -8167214787501511073
+    second: space_merc_default_119
+  - first:
+      213: 5843745919508666106
+    second: space_merc_default_120
+  - first:
+      213: -631946596854461249
+    second: space_merc_default_121
+  - first:
+      213: -6730168577886612673
+    second: space_merc_default_122
+  - first:
+      213: 5796080971767967894
+    second: space_merc_default_123
+  - first:
+      213: 5944730502913136976
+    second: space_merc_default_124
+  - first:
+      213: -8836197629372576479
+    second: space_merc_default_125
+  - first:
+      213: -1476262004827753480
+    second: space_merc_default_126
+  - first:
+      213: 9222200030932706871
+    second: space_merc_default_127
+  - first:
+      213: 6179469409399386442
+    second: space_merc_default_128
+  - first:
+      213: -7123067923646559867
+    second: space_merc_default_129
+  - first:
+      213: -8576068442473412481
+    second: space_merc_default_130
+  - first:
+      213: -2945354993147766112
+    second: space_merc_default_131
+  - first:
+      213: 4606957409972109926
+    second: space_merc_default_132
+  - first:
+      213: 4879992536627845616
+    second: space_merc_default_133
+  - first:
+      213: 7117695344056478857
+    second: space_merc_default_134
+  - first:
+      213: -8689828016363733882
+    second: space_merc_default_135
+  - first:
+      213: -358767751430766090
+    second: space_merc_default_136
+  - first:
+      213: -8614712684129045864
+    second: space_merc_default_137
+  - first:
+      213: 2788240316586910030
+    second: space_merc_default_138
+  - first:
+      213: 3208323465370252538
+    second: space_merc_default_139
+  - first:
+      213: -2542241702390434125
+    second: space_merc_default_140
+  - first:
+      213: 9062147017414987891
+    second: space_merc_default_141
+  - first:
+      213: 2957385647651445438
+    second: space_merc_default_142
+  - first:
+      213: 4461165112474010198
+    second: space_merc_default_143
+  - first:
+      213: 5124550975369020003
+    second: space_merc_default_144
+  - first:
+      213: 6498423590844035648
+    second: space_merc_default_145
+  - first:
+      213: 4518142961967070390
+    second: space_merc_default_146
+  - first:
+      213: 2281331440303208485
+    second: space_merc_default_147
+  - first:
+      213: 2968605198189296669
+    second: space_merc_default_148
+  - first:
+      213: 3707499906643107371
+    second: space_merc_default_149
+  - first:
+      213: 1975787852849710076
+    second: space_merc_default_150
+  - first:
+      213: -6578170589797761126
+    second: space_merc_default_151
+  - first:
+      213: 5638847190124788332
+    second: space_merc_default_152
+  - first:
+      213: 5984572858739797706
+    second: space_merc_default_153
+  - first:
+      213: 7897940571243292284
+    second: space_merc_default_154
+  - first:
+      213: 3565185167897903848
+    second: space_merc_default_155
+  - first:
+      213: 7866193992876729645
+    second: space_merc_default_156
+  - first:
+      213: 3194782525179036030
+    second: space_merc_default_157
+  - first:
+      213: -7751543734228445976
+    second: space_merc_default_158
+  - first:
+      213: 2463130544104073893
+    second: space_merc_default_159
+  - first:
+      213: 5095320239942417230
+    second: space_merc_default_160
+  - first:
+      213: -2387338291963863110
+    second: space_merc_default_161
+  - first:
+      213: 7088352683676834843
+    second: space_merc_default_162
+  - first:
+      213: -2695594081132161337
+    second: space_merc_default_163
+  - first:
+      213: 7055150923938415673
+    second: space_merc_default_164
+  - first:
+      213: -635377801336504475
+    second: space_merc_default_165
+  - first:
+      213: -2661226466116194816
+    second: space_merc_default_166
+  - first:
+      213: 1595989275995409076
+    second: space_merc_default_167
+  - first:
+      213: -6717139687897490103
+    second: space_merc_default_168
+  - first:
+      213: 7323806585615008555
+    second: space_merc_default_169
+  - first:
+      213: 7406571956283973686
+    second: space_merc_default_170
+  - first:
+      213: 3521160000295072669
+    second: space_merc_default_171
+  - first:
+      213: 1921681218328650869
+    second: space_merc_default_172
+  - first:
+      213: -6585462170982202214
+    second: space_merc_default_173
+  - first:
+      213: -7954192932169566500
+    second: space_merc_default_174
+  - first:
+      213: -2643985545287928801
+    second: space_merc_default_175
+  - first:
+      213: 4366036404673750859
+    second: space_merc_default_176
+  - first:
+      213: -5649893499357522257
+    second: space_merc_default_177
+  - first:
+      213: 5312152945761939146
+    second: space_merc_default_178
+  - first:
+      213: 6914280802372000387
+    second: space_merc_default_179
+  - first:
+      213: -5055494907349928977
+    second: space_merc_default_180
+  - first:
+      213: -5003320436824946517
+    second: space_merc_default_181
+  - first:
+      213: -4812470527940189931
+    second: space_merc_default_182
+  - first:
+      213: -8358411256714152280
+    second: space_merc_default_183
+  - first:
+      213: -5634145889013199015
+    second: space_merc_default_184
+  - first:
+      213: -7174137029696906285
+    second: space_merc_default_185
+  - first:
+      213: 5693618571090978670
+    second: space_merc_default_186
+  - first:
+      213: 2563154398981648147
+    second: space_merc_default_187
+  - first:
+      213: 3173510132061843995
+    second: space_merc_default_188
+  - first:
+      213: 4697373843694876172
+    second: space_merc_default_189
+  - first:
+      213: 6678643212749237753
+    second: space_merc_default_190
+  - first:
+      213: -2738499822070057443
+    second: space_merc_default_191
+  - first:
+      213: -274951131285960336
+    second: space_merc_default_192
+  - first:
+      213: 4000782307008107792
+    second: space_merc_default_193
+  - first:
+      213: 4613086508190381137
+    second: space_merc_default_194
+  - first:
+      213: -4379627368828767682
+    second: space_merc_default_195
+  - first:
+      213: 3337812633365466255
+    second: space_merc_default_196
+  - first:
+      213: 4770913715674604352
+    second: space_merc_default_197
+  - first:
+      213: -9045141062684570426
+    second: space_merc_default_198
+  - first:
+      213: 8378401697982682923
+    second: space_merc_default_199
+  - first:
+      213: -3413782884033297150
+    second: space_merc_default_200
+  - first:
+      213: 3335378049134518441
+    second: space_merc_default_201
+  - first:
+      213: 1890275079412029495
+    second: space_merc_default_202
+  - first:
+      213: 7657920778932202105
+    second: space_merc_default_203
+  - first:
+      213: 1907708565326961541
+    second: space_merc_default_204
+  - first:
+      213: -3968514041205382133
+    second: space_merc_default_205
+  - first:
+      213: -8181822329500719391
+    second: space_merc_default_206
+  - first:
+      213: -126848096433308960
+    second: space_merc_default_207
+  - first:
+      213: 3427718529422473708
+    second: space_merc_default_208
+  - first:
+      213: -4812583452927596103
+    second: space_merc_default_209
+  - first:
+      213: -5104415616462806359
+    second: space_merc_default_210
+  - first:
+      213: -1086067150171922835
+    second: space_merc_default_211
+  - first:
+      213: 8084315945796225883
+    second: space_merc_default_212
+  - first:
+      213: 178654948504832169
+    second: space_merc_default_213
+  - first:
+      213: -1909341872583454321
+    second: space_merc_default_214
+  - first:
+      213: -3426632468185682388
+    second: space_merc_default_215
+  - first:
+      213: -4391009740051976344
+    second: space_merc_default_216
+  - first:
+      213: -1025804747953481616
+    second: space_merc_default_217
+  - first:
+      213: -4507770477603828676
+    second: space_merc_default_218
+  - first:
+      213: -7114604651986954047
+    second: space_merc_default_219
+  - first:
+      213: 651807497779968381
+    second: space_merc_default_220
+  - first:
+      213: 617227516199066290
+    second: space_merc_default_221
+  - first:
+      213: 7959764396984949941
+    second: space_merc_default_222
+  - first:
+      213: -1742015882874689671
+    second: space_merc_default_223
+  - first:
+      213: 6701013993182328382
+    second: space_merc_default_224
+  - first:
+      213: -4272258468927883758
+    second: space_merc_default_225
+  - first:
+      213: -8772859266148207612
+    second: space_merc_default_226
+  - first:
+      213: 4557446218297199386
+    second: space_merc_default_227
+  - first:
+      213: 3659106823069230476
+    second: space_merc_default_228
+  - first:
+      213: 4666988801914144344
+    second: space_merc_default_229
+  - first:
+      213: 6033479445212800850
+    second: space_merc_default_230
+  - first:
+      213: -3192546279141732554
+    second: space_merc_default_231
+  - first:
+      213: 1362030170145833401
+    second: space_merc_default_232
+  - first:
+      213: -8127069778157327228
+    second: space_merc_default_233
+  - first:
+      213: 3903141006042793939
+    second: space_merc_default_234
+  - first:
+      213: -3750691103399598624
+    second: space_merc_default_235
+  - first:
+      213: 3499512194574387934
+    second: space_merc_default_236
+  - first:
+      213: 3312829359770425863
+    second: space_merc_default_237
+  - first:
+      213: -8261615652791165945
+    second: space_merc_default_238
+  - first:
+      213: 3780646613581184143
+    second: space_merc_default_239
+  - first:
+      213: -943063300346217731
+    second: space_merc_default_240
+  - first:
+      213: -9217604456252500010
+    second: space_merc_default_241
+  - first:
+      213: -504677848978003293
+    second: space_merc_default_242
+  - first:
+      213: -2366420115322815023
+    second: space_merc_default_243
+  - first:
+      213: 6943338886227508127
+    second: space_merc_default_244
+  - first:
+      213: -6972840333047987152
+    second: space_merc_default_245
+  - first:
+      213: 4379240902386944181
+    second: space_merc_default_246
+  - first:
+      213: 7425296980197592815
+    second: space_merc_default_247
+  - first:
+      213: -1918961095220086690
+    second: space_merc_default_248
+  - first:
+      213: 5724817181875892598
+    second: space_merc_default_249
+  - first:
+      213: -3591124824247509878
+    second: space_merc_default_250
+  - first:
+      213: 1477099612472179625
+    second: space_merc_default_251
+  - first:
+      213: 6411717163651381425
+    second: space_merc_default_252
+  - first:
+      213: -3878924413109237234
+    second: space_merc_default_253
+  - first:
+      213: 3589166937905667040
+    second: space_merc_default_254
+  - first:
+      213: 1250597043418390984
+    second: space_merc_default_255
+  - first:
+      213: -7546270069655490006
+    second: space_merc_default_256
+  - first:
+      213: 7999616997475845861
+    second: space_merc_default_257
+  - first:
+      213: 5349046119478946067
+    second: space_merc_default_258
+  - first:
+      213: 8730027417193542167
+    second: space_merc_default_259
+  - first:
+      213: -5959662209921685605
+    second: space_merc_default_260
+  - first:
+      213: -8909545458091327284
+    second: space_merc_default_261
+  - first:
+      213: -4611543471298390745
+    second: space_merc_default_262
+  - first:
+      213: -6936593403025999914
+    second: space_merc_default_263
+  - first:
+      213: 5288550871240274167
+    second: space_merc_default_264
+  - first:
+      213: -5173358534544328050
+    second: space_merc_default_265
+  - first:
+      213: 4094545285765328963
+    second: space_merc_default_266
+  - first:
+      213: -5675039736341131138
+    second: space_merc_default_267
+  - first:
+      213: -6109780315543004108
+    second: space_merc_default_268
+  - first:
+      213: -4196788900994069929
+    second: space_merc_default_269
+  - first:
+      213: 2341191569855264635
+    second: space_merc_default_270
+  - first:
+      213: -1157494946333050681
+    second: space_merc_default_271
+  - first:
+      213: -9126706205200096078
+    second: space_merc_default_272
+  - first:
+      213: 3581529898894040160
+    second: space_merc_default_273
+  - first:
+      213: 413273840196425164
+    second: space_merc_default_274
+  - first:
+      213: -8279185448433698767
+    second: space_merc_default_275
+  - first:
+      213: 4581827905554299448
+    second: space_merc_default_276
+  - first:
+      213: -2619593114962328407
+    second: space_merc_default_277
+  - first:
+      213: 5400931036871710391
+    second: space_merc_default_278
+  - first:
+      213: 5625605550822015514
+    second: space_merc_default_279
+  - first:
+      213: -6845074757852773369
+    second: space_merc_default_280
+  - first:
+      213: -5015748712039551162
+    second: space_merc_default_281
+  - first:
+      213: -4965607408579156157
+    second: space_merc_default_282
+  - first:
+      213: -2243478952962566500
+    second: space_merc_default_283
+  - first:
+      213: 5879174973538520068
+    second: space_merc_default_284
+  - first:
+      213: 3982378604510596326
+    second: space_merc_default_285
+  - first:
+      213: -1142659762360080768
+    second: space_merc_default_286
+  - first:
+      213: 280738065111689811
+    second: space_merc_default_287
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space_merc_default_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2161
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d9697dd6103dab0800000000000000
+      internalID: -4984638791288971881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2161
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745cb8e4e5e27c810800000000000000
+      internalID: 1785446759855277383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2161
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69387f6526eaa2750800000000000000
+      internalID: 6281024367710667670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2161
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763eddfae426c8550800000000000000
+      internalID: 6164410080060892007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2161
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5e0b66c74684e20800000000000000
+      internalID: 3335026009529443783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2161
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eb28c31c430d6c0800000000000000
+      internalID: -4120735654495470045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2115
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6742e1e09078d7840800000000000000
+      internalID: 5223479615780955254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2115
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6018120fedac430800000000000000
+      internalID: 3804097958203426474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2115
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1357d59c728502e80800000000000000
+      internalID: -8205461593163729615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2115
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ecd38f09726bc30800000000000000
+      internalID: 4374727591630589558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2115
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c9aae6648e96e80800000000000000
+      internalID: -8184755458567136183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_11
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2115
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd2336ce56313a50800000000000000
+      internalID: 6499035517952404952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2069
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdf5aa1e0c0f0400800000000000000
+      internalID: 292465755518533056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2069
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb45a4b173d76620800000000000000
+      internalID: 2767412981357956021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2069
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58af1b742411b6820800000000000000
+      internalID: 2912440560393517701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2069
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611a71b1164cd1940800000000000000
+      internalID: 5268583060438753558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2069
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fb2aa6ff3a6abe0800000000000000
+      internalID: -1466304311261479084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2069
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c81548b9bdf428d0800000000000000
+      internalID: -2871891688253220666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2023
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c1531694783d3e0800000000000000
+      internalID: -2030130257780728683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2023
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec698a9f1e9c5adb0800000000000000
+      internalID: -4781193456990513458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2023
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3d6690181494b90800000000000000
+      internalID: -7257197302066523204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2023
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ecaae9c9a3e0520800000000000000
+      internalID: 2670136073428586072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2023
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cced703fa73fe22e0800000000000000
+      internalID: -2148512262820208948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2023
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e585b2c7bbaa7d150800000000000000
+      internalID: 5897369959283775582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1977
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2382f93fb4fb263a0800000000000000
+      internalID: -6673561364878907342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1977
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1eefa1dcbc17290800000000000000
+      internalID: -7894304590022123031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1977
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03cd483500d48360800000000000000
+      internalID: 7171085227518706443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1977
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9ce85231883bf90800000000000000
+      internalID: -6939052985031931450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1977
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abaad7baf9415e50800000000000000
+      internalID: 6796294653854002084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1977
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ccf87713937b440800000000000000
+      internalID: 4951489199939243008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1931
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33a5b07061be1bd0800000000000000
+      internalID: -2657491702336085188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_31
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1931
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c83778e3adebb20800000000000000
+      internalID: 3152196751301250191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1931
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42a1baf0cafc8b90800000000000000
+      internalID: -7238134794344619446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_33
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1931
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56088b45d797e2c70800000000000000
+      internalID: 8948223088831004773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1931
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d6b9bc95444d290800000000000000
+      internalID: -7866587496650674878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_35
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1931
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb65e940932dc420800000000000000
+      internalID: 2651814858213125089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1885
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3136b8ba27b9bb10800000000000000
+      internalID: 1997829303830982972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1885
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38478feb5655f7710800000000000000
+      internalID: 1693165880398607491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1885
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81bdb5d921888470800000000000000
+      internalID: 8397103521911910797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1885
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3686394a91234a420800000000000000
+      internalID: 2640290367262648419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1885
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f04ad779471e1c0800000000000000
+      internalID: -4476168360632774769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_41
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1885
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74695125b054c8c0800000000000000
+      internalID: -3979967431809866630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1839
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c634b1481f43ac70800000000000000
+      internalID: 8981109047507039943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_43
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1839
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94037eb7f0a645e50800000000000000
+      internalID: 6797174352344723529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1839
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3824695199ed4f0800000000000000
+      internalID: -802035365631065151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1839
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e9485b565f2ed20800000000000000
+      internalID: 3306474893629234779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_46
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1839
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69aabbbf7568d8c40800000000000000
+      internalID: 5516212831042382486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_47
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1839
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59c700942f5d51c0800000000000000
+      internalID: -4513346640915478182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1793
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05996f253155d9d0800000000000000
+      internalID: -2750202708569254643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_49
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1793
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c979c7e13b22860800000000000000
+      internalID: 7503756872673369116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1793
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f83fe390b0d1320800000000000000
+      internalID: 2530190699990847382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1793
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1407f808e90bc6190800000000000000
+      internalID: -7967799445917044671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1793
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c89f8fb34233d20800000000000000
+      internalID: 3256986795517774991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_53
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1793
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493b17bbe9cb26690800000000000000
+      internalID: -7610313030367071340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_54
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1747
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0324c8845cdb2e0800000000000000
+      internalID: -2108312135158058836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_55
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1747
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d662a12cf1018e520800000000000000
+      internalID: 2731450902586730093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1747
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfe9ac3e9fb2c830800000000000000
+      internalID: 4090042097949339570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1747
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1203906d3dcb32770800000000000000
+      internalID: 8584912932713345057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_58
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1747
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d64980d4ab44960800000000000000
+      internalID: 7585392512417951028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_59
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1747
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fd21495bc53b100800000000000000
+      internalID: 122543549812236153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1701
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20c49d1d50bc99f0800000000000000
+      internalID: -460299147923898325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_61
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1701
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae181836403143db0800000000000000
+      internalID: -4813201192181988886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1701
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a4432e30064e470800000000000000
+      internalID: 8422962772885916290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1701
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be20b26bb6a132230800000000000000
+      internalID: 3612760376001364715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1701
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5811a8bafd4b87f70800000000000000
+      internalID: 9185290312770785669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1701
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb0308c4c9bfbe70800000000000000
+      internalID: 9133222824151026653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1655
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2af42a7f73e4e780800000000000000
+      internalID: -8654542447249655249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_67
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1655
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9f31f9955ca5db0800000000000000
+      internalID: -4802309063925564956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_68
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1655
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeb16a029f05ff90800000000000000
+      internalID: -6920608132471079173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1655
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b30b6fba24aa1e0800000000000000
+      internalID: -2185861362789369059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_70
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1655
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17d4f8d0b793cf00800000000000000
+      internalID: 1135918316837459739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_71
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1655
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8773de6c7ceda4a0800000000000000
+      internalID: -6580343461338974324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1609
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249898edcba979660800000000000000
+      internalID: 7392547449330043202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_73
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1609
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dc32c12c29a08b0800000000000000
+      internalID: -5185170658570285747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1609
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a89336da6c35fc0800000000000000
+      internalID: -3507241236795127173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1609
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9eef85f600662e0800000000000000
+      internalID: -2133016895278880322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_76
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1609
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dbf093e439ecf40800000000000000
+      internalID: 5750695738372767132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_77
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1609
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b445705bf04bf9640800000000000000
+      internalID: 5088984083506615371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_78
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1563
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b0d15a2a1838a30800000000000000
+      internalID: 4216356211703745378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_79
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1563
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cedb17fa3013d40800000000000000
+      internalID: 5562231066841705544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_80
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1563
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f1c0400a3dd0940800000000000000
+      internalID: 5264096223682109220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_81
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1563
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c969b591c8fe99b90800000000000000
+      internalID: -7234487941394098532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_82
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1563
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ee6e7b517e15050800000000000000
+      internalID: 5787661076613492283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_83
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1563
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07eb8dbd5733fbe0800000000000000
+      internalID: -1444750179704248563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1517
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de1a63c8088c30d0800000000000000
+      internalID: -3441726443998273836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_85
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1517
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c006beadfbaff40800000000000000
+      internalID: 5763129620146687053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_86
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1517
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dadfa58379bc1690800000000000000
+      internalID: -7630019762857190699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_87
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1517
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772e9b82a5e8f6f40800000000000000
+      internalID: 5723950169292661367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_88
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1517
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f136b74c97a58c870800000000000000
+      internalID: 8703305758927446815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_89
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1517
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63573793b1134eda0800000000000000
+      internalID: -5916550017460243146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_90
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1471
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc61b07c971ee3350800000000000000
+      internalID: 5998479666850764495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_91
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1471
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed78cd3a1a702410800000000000000
+      internalID: 1450293333137587688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_92
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1471
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044bd2126b9101ca0800000000000000
+      internalID: -6048306029527190464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_93
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1471
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdfde6078c22be10800000000000000
+      internalID: 2211879325440802255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_94
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1471
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed036e3eb69be0e0800000000000000
+      internalID: -2239530645852058130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_95
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1471
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c5c263ccb1f06a0800000000000000
+      internalID: -6480930774866699256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_96
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1425
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a582f352d06e01b60800000000000000
+      internalID: 7714919105819519066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_97
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1425
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc0a1314505a8210800000000000000
+      internalID: 1335968561496722625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_98
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1425
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3d22b34593e7b30800000000000000
+      internalID: 4286926929235465180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_99
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1425
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3880f7cad2cbb3970800000000000000
+      internalID: 8735782806568765571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_100
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1425
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65a9e034610aea50800000000000000
+      internalID: 6551050137792783726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_101
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1425
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea6c877bf2c80e90800000000000000
+      internalID: -7059178030604981522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_102
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1379
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b777403401ce98620800000000000000
+      internalID: 2777010199838619515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_103
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1379
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590efa01115110dc0800000000000000
+      internalID: -3674632657919025003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_104
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1379
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1ded7520f94c630800000000000000
+      internalID: 3946454005896368573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1379
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224f5d1c473e21350800000000000000
+      internalID: 5986096945336546338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_106
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1379
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaf045e88abb8890800000000000000
+      internalID: -7454659661057164638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_107
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1379
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865e6e8d8984c2db0800000000000000
+      internalID: -4815394080254663320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_108
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1333
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34afbda1189db6770800000000000000
+      internalID: 8605210661546097219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_109
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1333
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee97ae170daefa1b0800000000000000
+      internalID: -5643033627086652946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_110
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1333
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7688b557998119e60800000000000000
+      internalID: 7967176263173113959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_111
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1333
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb65030f3149c0f00800000000000000
+      internalID: 1084404423644436158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_112
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1333
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774333106dc305960800000000000000
+      internalID: 7588632261960086647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_113
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1333
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d906666ee7cb8db0800000000000000
+      internalID: -4788513952044283437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_114
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1287
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a1bfb93a9d71ff0800000000000000
+      internalID: -65344372853761437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_115
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1287
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344dcf9aeb77cc1a0800000000000000
+      internalID: -6787918877574769597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_116
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1287
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71868932f775ed820800000000000000
+      internalID: 2944887409916536855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_117
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1287
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95699ab62b0c686b0800000000000000
+      internalID: -5294332439384451495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_118
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1287
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed70781b13c93c870800000000000000
+      internalID: 8701970642255677406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_119
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1287
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ea7aa2c6938ae80800000000000000
+      internalID: -8167214787501511073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_120
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1241
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6d3f9c3f7291150800000000000000
+      internalID: 5843745919508666106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_121
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1241
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc09791befda37f0800000000000000
+      internalID: -631946596854461249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_122
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1241
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33929c1653a992a0800000000000000
+      internalID: -6730168577886612673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_123
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1241
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69071a35fe0df6050800000000000000
+      internalID: 5796080971767967894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_124
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1241
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059119755ecef7250800000000000000
+      internalID: 5944730502913136976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_125
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1241
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d491082158f5580800000000000000
+      internalID: -8836197629372576479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_126
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1195
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3f5d63783438be0800000000000000
+      internalID: -1476262004827753480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_127
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1195
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736275b1116dbff70800000000000000
+      internalID: 9222200030932706871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_128
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1195
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41b4a700b2e1c550800000000000000
+      internalID: 6179469409399386442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_129
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1195
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589411c8677c52d90800000000000000
+      internalID: -7123067923646559867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1195
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f784fe4803fabf880800000000000000
+      internalID: -8576068442473412481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_131
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1195
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa11082d3fff17d0800000000000000
+      internalID: -2945354993147766112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_132
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1149
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662cdbc0b533fef30800000000000000
+      internalID: 4606957409972109926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_133
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1149
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f992445b5739b340800000000000000
+      internalID: 4879992536627845616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_134
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1149
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c20f9443227c260800000000000000
+      internalID: 7117695344056478857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_135
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1149
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cf665b577876780800000000000000
+      internalID: -8689828016363733882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_136
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1149
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f18a1381a6650bf0800000000000000
+      internalID: -358767751430766090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_137
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1149
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892bf6cd474627880800000000000000
+      internalID: -8614712684129045864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_138
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1103
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41e5929bc1d1b620800000000000000
+      internalID: 2788240316586910030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_139
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1103
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4b1fd7131468c20800000000000000
+      internalID: 3208323465370252538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_140
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1103
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b675db14a428bcd0800000000000000
+      internalID: -2542241702390434125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_141
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1103
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370d263f2b633cd70800000000000000
+      internalID: 9062147017414987891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_142
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1103
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba5a10e39eba0920800000000000000
+      internalID: 2957385647651445438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_143
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1103
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6520165980e39ed30800000000000000
+      internalID: 4461165112474010198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_144
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1057
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362804806ff0e1740800000000000000
+      internalID: 5124550975369020003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_145
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1057
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042f64463d90f2a50800000000000000
+      internalID: 6498423590844035648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_146
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1057
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc7a74f51ba3be30800000000000000
+      internalID: 4518142961967070390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_147
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1057
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528f332abdae8af10800000000000000
+      internalID: 2281331440303208485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_148
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1057
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c737c03ba923920800000000000000
+      internalID: 2968605198189296669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_149
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1057
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e914c958fa37330800000000000000
+      internalID: 3707499906643107371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_150
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1011
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf383a085986b6b10800000000000000
+      internalID: 1975787852849710076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_151
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1011
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fbe2383b4a5b4a0800000000000000
+      internalID: -6578170589797761126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_152
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1011
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6af81eb4a5314e40800000000000000
+      internalID: 5638847190124788332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_153
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1011
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace21a1be497d0350800000000000000
+      internalID: 5984572858739797706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_154
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1011
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c762a1eba1f1b9d60800000000000000
+      internalID: 7897940571243292284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_155
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1011
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2cb0365051a7130800000000000000
+      internalID: 3565185167897903848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_156
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 965
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25aab772c55a2d60800000000000000
+      internalID: 7866193992876729645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_157
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 965
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e710ceba7c5265c20800000000000000
+      internalID: 3194782525179036030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_158
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 965
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4986c0b0cfc6490800000000000000
+      internalID: -7751543734228445976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_159
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 965
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaecbcfd2cce2220800000000000000
+      internalID: 2463130544104073893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_160
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 965
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b30a613c636b640800000000000000
+      internalID: 5095320239942417230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_161
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 965
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf5eccd8787eded0800000000000000
+      internalID: -2387338291963863110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_162
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 919
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c9e39c533ee5260800000000000000
+      internalID: 7088352683676834843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_163
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 919
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6d87f0773579ad0800000000000000
+      internalID: -2695594081132161337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_164
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 919
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9344e12b26ee8e160800000000000000
+      internalID: 7055150923938415673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_165
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 919
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f3b2d814fae27f0800000000000000
+      internalID: -635377801336504475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_166
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 919
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ea64cf0ac611bd0800000000000000
+      internalID: -2661226466116194816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_167
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 919
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba0a056ac7162610800000000000000
+      internalID: 1595989275995409076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_168
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 873
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d1134fa0de7c2a0800000000000000
+      internalID: -6717139687897490103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_169
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 873
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23cf33594363a560800000000000000
+      internalID: 7323806585615008555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_170
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 873
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6302da9d3fd69c660800000000000000
+      internalID: 7406571956283973686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_171
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 873
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93f6e64d5cadd030800000000000000
+      internalID: 3521160000295072669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 873
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574e406f2ee2baa10800000000000000
+      internalID: 1921681218328650869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_173
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 873
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9445d8fb0dbb94a0800000000000000
+      internalID: -6585462170982202214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_174
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 827
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd63c1bdba70d9190800000000000000
+      internalID: -7954192932169566500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_175
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 827
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1478dda72dae4bd0800000000000000
+      internalID: -2643985545287928801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_176
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 827
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47a0015af6479c30800000000000000
+      internalID: 4366036404673750859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_177
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 827
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa69108fbcb8791b0800000000000000
+      internalID: -5649893499357522257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_178
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 827
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace6fac85fe88b940800000000000000
+      internalID: 5312152945761939146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_179
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 827
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a9fae91c574ff50800000000000000
+      internalID: 6914280802372000387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_180
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 781
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe37c9bba2647d9b0800000000000000
+      internalID: -5055494907349928977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_181
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 781
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8c8994292a09ab0800000000000000
+      internalID: -5003320436824946517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_182
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 781
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511a61a6d8ba63db0800000000000000
+      internalID: -4812470527940189931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_183
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 781
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a63dec2f35f00c80800000000000000
+      internalID: -8358411256714152280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 781
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f04a83a2e7fc1b0800000000000000
+      internalID: -5634145889013199015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_185
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 781
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db90f6b168507c90800000000000000
+      internalID: -7174137029696906285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_186
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 735
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67e170acebc30f40800000000000000
+      internalID: 5693618571090978670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_187
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 735
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fe7cf7857229320800000000000000
+      internalID: 2563154398981648147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_188
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 735
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1236a0b6a29a0c20800000000000000
+      internalID: 3173510132061843995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_189
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 735
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06f4a28f9c603140800000000000000
+      internalID: 4697373843694876172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_190
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 735
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fded75fd9e4fac50800000000000000
+      internalID: 6678643212749237753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_191
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 735
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d163b08cbe4eef9d0800000000000000
+      internalID: -2738499822070057443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_192
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 689
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079cb11276d2f2cf0800000000000000
+      internalID: -274951131285960336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_193
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 689
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015d2e8af42a58730800000000000000
+      internalID: 4000782307008107792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_194
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 689
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154b5deecb9f40040800000000000000
+      internalID: 4613086508190381137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_195
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 689
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32f160cc107833c0800000000000000
+      internalID: -4379627368828767682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_196
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 689
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c4f82d7ea425e20800000000000000
+      internalID: 3337812633365466255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_197
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 689
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043e2dc3fb0b53240800000000000000
+      internalID: 4770913715674604352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_198
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 643
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc036f6024397280800000000000000
+      internalID: -9045141062684570426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_199
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 643
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2799c124ff064470800000000000000
+      internalID: 8378401697982682923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_200
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 643
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20503e0dd8ecf90d0800000000000000
+      internalID: -3413782884033297150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_201
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 643
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a06c420aa4a94e20800000000000000
+      internalID: 3335378049134518441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_202
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 643
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738902c6b2b9b3a10800000000000000
+      internalID: 1890275079412029495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_203
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 643
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a26520066664a60800000000000000
+      internalID: 7657920778932202105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_204
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 597
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b984b25da897a10800000000000000
+      internalID: 1907708565326961541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_205
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 597
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04adcf61810de8c0800000000000000
+      internalID: -3968514041205382133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_206
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 597
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e620c2c0f3547e80800000000000000
+      internalID: -8181822329500719391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_207
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 597
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea78af04585d3ef0800000000000000
+      internalID: -126848096433308960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_208
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 597
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9304877d3b19f20800000000000000
+      internalID: 3427718529422473708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_209
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 597
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9e35409d4463db0800000000000000
+      internalID: -4812583452927596103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_210
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 551
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a227ca8a097929b0800000000000000
+      internalID: -5104415616462806359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_211
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 551
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e18cf5ea38de0f0800000000000000
+      internalID: -1086067150171922835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_212
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 551
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bc5392582413070800000000000000
+      internalID: 8084315945796225883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_213
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 551
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a80ff6aab5ba7200800000000000000
+      internalID: 178654948504832169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_214
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 551
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8152e9dea7a085e0800000000000000
+      internalID: -1909341872583454321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_215
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 551
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ee8fddce72270d0800000000000000
+      internalID: -3426632468185682388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_216
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 505
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86febeee7efff03c0800000000000000
+      internalID: -4391009740051976344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_217
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 505
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078d255440c93c1f0800000000000000
+      internalID: -1025804747953481616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_218
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 505
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c4e6142ae2171c0800000000000000
+      internalID: -4507770477603828676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_219
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 505
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8d9f883c8d34d90800000000000000
+      internalID: -7114604651986954047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_220
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 505
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d797c1f377fab0900800000000000000
+      internalID: 651807497779968381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_221
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 505
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba54a0e725d09800800000000000000
+      internalID: 617227516199066290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_222
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 459
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcd612eb83c67e60800000000000000
+      internalID: 7959764396984949941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_223
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 459
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9776a2cb8cd13d7e0800000000000000
+      internalID: -1742015882874689671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_224
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 459
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36fd8a29b8cefc50800000000000000
+      internalID: 6701013993182328382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_225
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 459
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21636e2de83e5b4c0800000000000000
+      internalID: -4272258468927883758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_226
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 459
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404fdb06afa804680800000000000000
+      internalID: -8772859266148207612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_227
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 459
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b4d8c603d4f3f30800000000000000
+      internalID: 4557446218297199386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_228
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 413
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85ef30d442c7c230800000000000000
+      internalID: 3659106823069230476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_229
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 413
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85681dca69974c040800000000000000
+      internalID: 4666988801914144344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_230
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 413
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257a783b6993bb350800000000000000
+      internalID: 6033479445212800850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_231
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 413
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f03cee21cc1b3d0800000000000000
+      internalID: -3192546279141732554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_232
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 413
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b148e03937e6e210800000000000000
+      internalID: 1362030170145833401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_233
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 413
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cae188819d63f80800000000000000
+      internalID: -8127069778157327228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_234
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 367
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d70175b01eba2630800000000000000
+      internalID: 3903141006042793939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_235
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 367
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e526af305ed2fbc0800000000000000
+      internalID: -3750691103399598624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_236
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 367
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda01ccbcc3c09030800000000000000
+      internalID: 3499512194574387934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_237
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 367
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ad99620c889fd20800000000000000
+      internalID: 3312829359770425863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_238
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 367
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c5390f558d85d80800000000000000
+      internalID: -8261615652791165945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_239
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 367
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c3ac7701e877430800000000000000
+      internalID: 3780646613581184143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_240
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 321
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaf726cce099e2f0800000000000000
+      internalID: -943063300346217731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_241
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 321
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d71301859d741080800000000000000
+      internalID: -9217604456252500010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_242
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 321
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa68a59b260ff8f0800000000000000
+      internalID: -504677848978003293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_243
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 321
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd38d46179c82fd0800000000000000
+      internalID: -2366420115322815023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_244
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 321
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b3fbcfde1bb5060800000000000000
+      internalID: 6943338886227508127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_245
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 321
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034882929ae7b3f90800000000000000
+      internalID: -6972840333047987152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_246
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 275
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b882a4066036cc30800000000000000
+      internalID: 4379240902386944181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_247
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 275
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee45783344fb0760800000000000000
+      internalID: 7425296980197592815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_248
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 275
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58bc9d0d0b7e55e0800000000000000
+      internalID: -1918961095220086690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_249
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 275
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671f3c145e2a27f40800000000000000
+      internalID: 5724817181875892598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_250
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 275
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd3aabff2c92ec0800000000000000
+      internalID: -3591124824247509878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_251
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 275
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab75438546bf7410800000000000000
+      internalID: 1477099612472179625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_252
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 229
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b837b32acefaf850800000000000000
+      internalID: 6411717163651381425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_253
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 229
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a88063cca4b2ac0800000000000000
+      internalID: -3878924413109237234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_254
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 229
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb917550584fc130800000000000000
+      internalID: 3589166937905667040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_255
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 229
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c16b1292630b5110800000000000000
+      internalID: 1250597043418390984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_256
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 229
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22b50f7a53464790800000000000000
+      internalID: -7546270069655490006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_257
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 229
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e689b18649540f60800000000000000
+      internalID: 7999616997475845861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_258
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 183
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31969beea11ab3a40800000000000000
+      internalID: 5349046119478946067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_259
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 183
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712fd39aea9472970800000000000000
+      internalID: 8730027417193542167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_260
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 183
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b976c44bbc60b4da0800000000000000
+      internalID: -5959662209921685605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_261
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 183
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc085445c9fea5480800000000000000
+      internalID: -8909545458091327284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_262
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 183
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725dcf655a18000c0800000000000000
+      internalID: -4611543471298390745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_263
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 183
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d731553d054cbf90800000000000000
+      internalID: -6936593403025999914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_264
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 137
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0fbd85ff4b46940800000000000000
+      internalID: 5288550871240274167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_265
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 137
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8affbc82d98438b0800000000000000
+      internalID: -5173358534544328050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_266
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 137
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340faca5e3fb2d830800000000000000
+      internalID: 4094545285765328963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_267
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 137
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70192d6d653e31b0800000000000000
+      internalID: -5675039736341131138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_268
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 137
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c926c8c23b53ba0800000000000000
+      internalID: -6109780315543004108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_269
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 137
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a42f6eab202c5c0800000000000000
+      internalID: -4196788900994069929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_270
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 91
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77bc5024559d7020800000000000000
+      internalID: 2341191569855264635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_271
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 91
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8328e9a70cfefe0800000000000000
+      internalID: -1157494946333050681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_272
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 91
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4e1bdcf0d675180800000000000000
+      internalID: -9126706205200096078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_273
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 91
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c1500a77624b130800000000000000
+      internalID: 3581529898894040160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_274
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 91
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc59ed73e5e3cb500800000000000000
+      internalID: 413273840196425164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_275
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 91
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138b68c13bc6a1d80800000000000000
+      internalID: -8279185448433698767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_276
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 45
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a398c543ce59f30800000000000000
+      internalID: 4581827905554299448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_277
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 45
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a48c9ee0f555abd0800000000000000
+      internalID: -2619593114962328407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_278
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 45
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6de15a926f3fa40800000000000000
+      internalID: 5400931036871710391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_279
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 45
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a124637517a221e40800000000000000
+      internalID: 5625605550822015514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_280
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 45
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704413546c86101a0800000000000000
+      internalID: -6845074757852773369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_281
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 45
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f6248fe1b746ab0800000000000000
+      internalID: -5015748712039551162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_282
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347679dee5e961bb0800000000000000
+      internalID: -4965607408579156157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_283
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96d99b57cf8dd0e0800000000000000
+      internalID: -2243478952962566500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_284
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c412e3d76079150800000000000000
+      internalID: 5879174973538520068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_285
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec48f2cd30444730800000000000000
+      internalID: 3982378604510596326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_286
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086256d00057420f0800000000000000
+      internalID: -1142659762360080768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_merc_default_287
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35aa9e568c165e300800000000000000
+      internalID: 280738065111689811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      space_merc_default_0: -4984638791288971881
+      space_merc_default_1: 1785446759855277383
+      space_merc_default_10: -8184755458567136183
+      space_merc_default_100: 6551050137792783726
+      space_merc_default_101: -7059178030604981522
+      space_merc_default_102: 2777010199838619515
+      space_merc_default_103: -3674632657919025003
+      space_merc_default_104: 3946454005896368573
+      space_merc_default_105: 5986096945336546338
+      space_merc_default_106: -7454659661057164638
+      space_merc_default_107: -4815394080254663320
+      space_merc_default_108: 8605210661546097219
+      space_merc_default_109: -5643033627086652946
+      space_merc_default_11: 6499035517952404952
+      space_merc_default_110: 7967176263173113959
+      space_merc_default_111: 1084404423644436158
+      space_merc_default_112: 7588632261960086647
+      space_merc_default_113: -4788513952044283437
+      space_merc_default_114: -65344372853761437
+      space_merc_default_115: -6787918877574769597
+      space_merc_default_116: 2944887409916536855
+      space_merc_default_117: -5294332439384451495
+      space_merc_default_118: 8701970642255677406
+      space_merc_default_119: -8167214787501511073
+      space_merc_default_12: 292465755518533056
+      space_merc_default_120: 5843745919508666106
+      space_merc_default_121: -631946596854461249
+      space_merc_default_122: -6730168577886612673
+      space_merc_default_123: 5796080971767967894
+      space_merc_default_124: 5944730502913136976
+      space_merc_default_125: -8836197629372576479
+      space_merc_default_126: -1476262004827753480
+      space_merc_default_127: 9222200030932706871
+      space_merc_default_128: 6179469409399386442
+      space_merc_default_129: -7123067923646559867
+      space_merc_default_13: 2767412981357956021
+      space_merc_default_130: -8576068442473412481
+      space_merc_default_131: -2945354993147766112
+      space_merc_default_132: 4606957409972109926
+      space_merc_default_133: 4879992536627845616
+      space_merc_default_134: 7117695344056478857
+      space_merc_default_135: -8689828016363733882
+      space_merc_default_136: -358767751430766090
+      space_merc_default_137: -8614712684129045864
+      space_merc_default_138: 2788240316586910030
+      space_merc_default_139: 3208323465370252538
+      space_merc_default_14: 2912440560393517701
+      space_merc_default_140: -2542241702390434125
+      space_merc_default_141: 9062147017414987891
+      space_merc_default_142: 2957385647651445438
+      space_merc_default_143: 4461165112474010198
+      space_merc_default_144: 5124550975369020003
+      space_merc_default_145: 6498423590844035648
+      space_merc_default_146: 4518142961967070390
+      space_merc_default_147: 2281331440303208485
+      space_merc_default_148: 2968605198189296669
+      space_merc_default_149: 3707499906643107371
+      space_merc_default_15: 5268583060438753558
+      space_merc_default_150: 1975787852849710076
+      space_merc_default_151: -6578170589797761126
+      space_merc_default_152: 5638847190124788332
+      space_merc_default_153: 5984572858739797706
+      space_merc_default_154: 7897940571243292284
+      space_merc_default_155: 3565185167897903848
+      space_merc_default_156: 7866193992876729645
+      space_merc_default_157: 3194782525179036030
+      space_merc_default_158: -7751543734228445976
+      space_merc_default_159: 2463130544104073893
+      space_merc_default_16: -1466304311261479084
+      space_merc_default_160: 5095320239942417230
+      space_merc_default_161: -2387338291963863110
+      space_merc_default_162: 7088352683676834843
+      space_merc_default_163: -2695594081132161337
+      space_merc_default_164: 7055150923938415673
+      space_merc_default_165: -635377801336504475
+      space_merc_default_166: -2661226466116194816
+      space_merc_default_167: 1595989275995409076
+      space_merc_default_168: -6717139687897490103
+      space_merc_default_169: 7323806585615008555
+      space_merc_default_17: -2871891688253220666
+      space_merc_default_170: 7406571956283973686
+      space_merc_default_171: 3521160000295072669
+      space_merc_default_172: 1921681218328650869
+      space_merc_default_173: -6585462170982202214
+      space_merc_default_174: -7954192932169566500
+      space_merc_default_175: -2643985545287928801
+      space_merc_default_176: 4366036404673750859
+      space_merc_default_177: -5649893499357522257
+      space_merc_default_178: 5312152945761939146
+      space_merc_default_179: 6914280802372000387
+      space_merc_default_18: -2030130257780728683
+      space_merc_default_180: -5055494907349928977
+      space_merc_default_181: -5003320436824946517
+      space_merc_default_182: -4812470527940189931
+      space_merc_default_183: -8358411256714152280
+      space_merc_default_184: -5634145889013199015
+      space_merc_default_185: -7174137029696906285
+      space_merc_default_186: 5693618571090978670
+      space_merc_default_187: 2563154398981648147
+      space_merc_default_188: 3173510132061843995
+      space_merc_default_189: 4697373843694876172
+      space_merc_default_19: -4781193456990513458
+      space_merc_default_190: 6678643212749237753
+      space_merc_default_191: -2738499822070057443
+      space_merc_default_192: -274951131285960336
+      space_merc_default_193: 4000782307008107792
+      space_merc_default_194: 4613086508190381137
+      space_merc_default_195: -4379627368828767682
+      space_merc_default_196: 3337812633365466255
+      space_merc_default_197: 4770913715674604352
+      space_merc_default_198: -9045141062684570426
+      space_merc_default_199: 8378401697982682923
+      space_merc_default_2: 6281024367710667670
+      space_merc_default_20: -7257197302066523204
+      space_merc_default_200: -3413782884033297150
+      space_merc_default_201: 3335378049134518441
+      space_merc_default_202: 1890275079412029495
+      space_merc_default_203: 7657920778932202105
+      space_merc_default_204: 1907708565326961541
+      space_merc_default_205: -3968514041205382133
+      space_merc_default_206: -8181822329500719391
+      space_merc_default_207: -126848096433308960
+      space_merc_default_208: 3427718529422473708
+      space_merc_default_209: -4812583452927596103
+      space_merc_default_21: 2670136073428586072
+      space_merc_default_210: -5104415616462806359
+      space_merc_default_211: -1086067150171922835
+      space_merc_default_212: 8084315945796225883
+      space_merc_default_213: 178654948504832169
+      space_merc_default_214: -1909341872583454321
+      space_merc_default_215: -3426632468185682388
+      space_merc_default_216: -4391009740051976344
+      space_merc_default_217: -1025804747953481616
+      space_merc_default_218: -4507770477603828676
+      space_merc_default_219: -7114604651986954047
+      space_merc_default_22: -2148512262820208948
+      space_merc_default_220: 651807497779968381
+      space_merc_default_221: 617227516199066290
+      space_merc_default_222: 7959764396984949941
+      space_merc_default_223: -1742015882874689671
+      space_merc_default_224: 6701013993182328382
+      space_merc_default_225: -4272258468927883758
+      space_merc_default_226: -8772859266148207612
+      space_merc_default_227: 4557446218297199386
+      space_merc_default_228: 3659106823069230476
+      space_merc_default_229: 4666988801914144344
+      space_merc_default_23: 5897369959283775582
+      space_merc_default_230: 6033479445212800850
+      space_merc_default_231: -3192546279141732554
+      space_merc_default_232: 1362030170145833401
+      space_merc_default_233: -8127069778157327228
+      space_merc_default_234: 3903141006042793939
+      space_merc_default_235: -3750691103399598624
+      space_merc_default_236: 3499512194574387934
+      space_merc_default_237: 3312829359770425863
+      space_merc_default_238: -8261615652791165945
+      space_merc_default_239: 3780646613581184143
+      space_merc_default_24: -6673561364878907342
+      space_merc_default_240: -943063300346217731
+      space_merc_default_241: -9217604456252500010
+      space_merc_default_242: -504677848978003293
+      space_merc_default_243: -2366420115322815023
+      space_merc_default_244: 6943338886227508127
+      space_merc_default_245: -6972840333047987152
+      space_merc_default_246: 4379240902386944181
+      space_merc_default_247: 7425296980197592815
+      space_merc_default_248: -1918961095220086690
+      space_merc_default_249: 5724817181875892598
+      space_merc_default_25: -7894304590022123031
+      space_merc_default_250: -3591124824247509878
+      space_merc_default_251: 1477099612472179625
+      space_merc_default_252: 6411717163651381425
+      space_merc_default_253: -3878924413109237234
+      space_merc_default_254: 3589166937905667040
+      space_merc_default_255: 1250597043418390984
+      space_merc_default_256: -7546270069655490006
+      space_merc_default_257: 7999616997475845861
+      space_merc_default_258: 5349046119478946067
+      space_merc_default_259: 8730027417193542167
+      space_merc_default_26: 7171085227518706443
+      space_merc_default_260: -5959662209921685605
+      space_merc_default_261: -8909545458091327284
+      space_merc_default_262: -4611543471298390745
+      space_merc_default_263: -6936593403025999914
+      space_merc_default_264: 5288550871240274167
+      space_merc_default_265: -5173358534544328050
+      space_merc_default_266: 4094545285765328963
+      space_merc_default_267: -5675039736341131138
+      space_merc_default_268: -6109780315543004108
+      space_merc_default_269: -4196788900994069929
+      space_merc_default_27: -6939052985031931450
+      space_merc_default_270: 2341191569855264635
+      space_merc_default_271: -1157494946333050681
+      space_merc_default_272: -9126706205200096078
+      space_merc_default_273: 3581529898894040160
+      space_merc_default_274: 413273840196425164
+      space_merc_default_275: -8279185448433698767
+      space_merc_default_276: 4581827905554299448
+      space_merc_default_277: -2619593114962328407
+      space_merc_default_278: 5400931036871710391
+      space_merc_default_279: 5625605550822015514
+      space_merc_default_28: 6796294653854002084
+      space_merc_default_280: -6845074757852773369
+      space_merc_default_281: -5015748712039551162
+      space_merc_default_282: -4965607408579156157
+      space_merc_default_283: -2243478952962566500
+      space_merc_default_284: 5879174973538520068
+      space_merc_default_285: 3982378604510596326
+      space_merc_default_286: -1142659762360080768
+      space_merc_default_287: 280738065111689811
+      space_merc_default_29: 4951489199939243008
+      space_merc_default_3: 6164410080060892007
+      space_merc_default_30: -2657491702336085188
+      space_merc_default_31: 3152196751301250191
+      space_merc_default_32: -7238134794344619446
+      space_merc_default_33: 8948223088831004773
+      space_merc_default_34: -7866587496650674878
+      space_merc_default_35: 2651814858213125089
+      space_merc_default_36: 1997829303830982972
+      space_merc_default_37: 1693165880398607491
+      space_merc_default_38: 8397103521911910797
+      space_merc_default_39: 2640290367262648419
+      space_merc_default_4: 3335026009529443783
+      space_merc_default_40: -4476168360632774769
+      space_merc_default_41: -3979967431809866630
+      space_merc_default_42: 8981109047507039943
+      space_merc_default_43: 6797174352344723529
+      space_merc_default_44: -802035365631065151
+      space_merc_default_45: 3306474893629234779
+      space_merc_default_46: 5516212831042382486
+      space_merc_default_47: -4513346640915478182
+      space_merc_default_48: -2750202708569254643
+      space_merc_default_49: 7503756872673369116
+      space_merc_default_5: -4120735654495470045
+      space_merc_default_50: 2530190699990847382
+      space_merc_default_51: -7967799445917044671
+      space_merc_default_52: 3256986795517774991
+      space_merc_default_53: -7610313030367071340
+      space_merc_default_54: -2108312135158058836
+      space_merc_default_55: 2731450902586730093
+      space_merc_default_56: 4090042097949339570
+      space_merc_default_57: 8584912932713345057
+      space_merc_default_58: 7585392512417951028
+      space_merc_default_59: 122543549812236153
+      space_merc_default_6: 5223479615780955254
+      space_merc_default_60: -460299147923898325
+      space_merc_default_61: -4813201192181988886
+      space_merc_default_62: 8422962772885916290
+      space_merc_default_63: 3612760376001364715
+      space_merc_default_64: 9185290312770785669
+      space_merc_default_65: 9133222824151026653
+      space_merc_default_66: -8654542447249655249
+      space_merc_default_67: -4802309063925564956
+      space_merc_default_68: -6920608132471079173
+      space_merc_default_69: -2185861362789369059
+      space_merc_default_7: 3804097958203426474
+      space_merc_default_70: 1135918316837459739
+      space_merc_default_71: -6580343461338974324
+      space_merc_default_72: 7392547449330043202
+      space_merc_default_73: -5185170658570285747
+      space_merc_default_74: -3507241236795127173
+      space_merc_default_75: -2133016895278880322
+      space_merc_default_76: 5750695738372767132
+      space_merc_default_77: 5088984083506615371
+      space_merc_default_78: 4216356211703745378
+      space_merc_default_79: 5562231066841705544
+      space_merc_default_8: -8205461593163729615
+      space_merc_default_80: 5264096223682109220
+      space_merc_default_81: -7234487941394098532
+      space_merc_default_82: 5787661076613492283
+      space_merc_default_83: -1444750179704248563
+      space_merc_default_84: -3441726443998273836
+      space_merc_default_85: 5763129620146687053
+      space_merc_default_86: -7630019762857190699
+      space_merc_default_87: 5723950169292661367
+      space_merc_default_88: 8703305758927446815
+      space_merc_default_89: -5916550017460243146
+      space_merc_default_9: 4374727591630589558
+      space_merc_default_90: 5998479666850764495
+      space_merc_default_91: 1450293333137587688
+      space_merc_default_92: -6048306029527190464
+      space_merc_default_93: 2211879325440802255
+      space_merc_default_94: -2239530645852058130
+      space_merc_default_95: -6480930774866699256
+      space_merc_default_96: 7714919105819519066
+      space_merc_default_97: 1335968561496722625
+      space_merc_default_98: 4286926929235465180
+      space_merc_default_99: 8735782806568765571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
